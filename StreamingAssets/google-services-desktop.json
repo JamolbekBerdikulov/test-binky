@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "203114715440",
+    "project_id": "binky-academy",
+    "storage_bucket": "binky-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203114715440:android:6bf31bee81faaec3fdd0f5",
+        "android_client_info": {
+          "package_name": "com.binkyacademy.learning.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203114715440-8s2qh1ksn9sb44a83po7ensiejll70f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7r31gejW9ovRIKPNDi20ubAVIU9-4qi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203114715440-8s2qh1ksn9sb44a83po7ensiejll70f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203114715440-stlhtps29utc53o9mgn29c26l85dui7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.binkygames.binkyacademy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
